@@ -87,3 +87,13 @@ The most misunderstood aspects of teamwork is that talent is only one aspect of 
 * Kanban lists of Todo / In Progress / Done, simple tracking for short term management
 * Avoid hero driven development, who will swoop in at the end of the project to get things done
 * Kaisen - make things better on a daily basis
+
+### Trello Boards / Kanban
+
+Start with your list of Todos, maybe each is a ticket or an achieveable task in a project for a week.
+
+### Excel
+
+Make a quaterly plan with 12 weeks and your key goals for the quarter. To aid in your kanban week-to-week.
+
+##
