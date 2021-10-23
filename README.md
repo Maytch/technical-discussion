@@ -7,9 +7,14 @@ This is a demo repo for sharing ideas around communication
 
 This is a gist example of [my code](https://gist.github.com/Maytch/33f6ea9ae697c933c44378b2c641de8c)
 
+### Colab / Jupyter
+
+https://colab.research.google.com/
+
 ### Images
 
 ![tier2-4](https://user-images.githubusercontent.com/5732128/138562437-9654edce-a56d-4712-953c-ab20d49ea84e.png)
+
 
 ## Aspects of Critical Thinking
 
@@ -44,3 +49,15 @@ Do you have the ability to have faith in scientific facts? To believe that reaso
 ### Fair-mindedness
 
 Are you accepting compliments or criticisms in good faith?
+
+
+## Being an Effective Technical Triple Threat
+
+Focusing on one skill/path isn't effective for your career. For job searching, a degree alone won't cut it. Having the qualification, a portfolio, and networking would be a triple threat.
+
+## Effective Technical Discussions
+
+* Sharing code that can be reproduced enchances conversation. Must run smoothly or else it can negate value. You can share code with gists / jupyter.
+* Audio, video, and images to provide visual context
+* Screensharing / casting to demonstrate and answer questions
+* Produce once, reuse many
