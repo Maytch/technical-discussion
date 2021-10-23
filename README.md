@@ -74,3 +74,5 @@ The most misunderstood aspects of teamwork is that talent is only one aspect of 
 * Standards of excellence - everyone agrees what 'good' IS, agree on thing that should be done and kept to
 * External support and recognition
 * Principled leadership - the leader has to have character and do things in a principled way
+
+## Effective Technical Project Management
