@@ -9,7 +9,7 @@ This is a gist example of [my code](https://gist.github.com/Maytch/33f6ea9ae697c
 
 ### Colab / Jupyter
 
-https://colab.research.google.com/
+[See here](https://github.com/Maytch/technical-discussion/blob/main/create_markdown_in_jupyter.ipynb)
 
 ### Images
 
