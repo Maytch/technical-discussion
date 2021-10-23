@@ -76,3 +76,14 @@ The most misunderstood aspects of teamwork is that talent is only one aspect of 
 * Principled leadership - the leader has to have character and do things in a principled way
 
 ## Effective Technical Project Management
+
+### Project Management
+
+* Building a quarterly schedule that identifies what you might be building week-by-week. A technical plan of what you think will happen. Gets ideas flowing and makes you think about what you'll build
+* Make a weekly demo to show progress and get things done. If you can't demo every week you're probably not going to meet your deadline
+* Always be in a deployable state
+* Automated testing, if it's not automated it's broken
+* When breaking down tickets in a ticket system, think about things in a 4 hour to 3 day window
+* Kanban lists of Todo / In Progress / Done, simple tracking for short term management
+* Avoid hero driven development, who will swoop in at the end of the project to get things done
+* Kaisen - make things better on a daily basis
