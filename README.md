@@ -61,3 +61,16 @@ Focusing on one skill/path isn't effective for your career. For job searching, a
 * Audio, video, and images to provide visual context
 * Screensharing / casting to demonstrate and answer questions
 * Produce once, reuse many
+
+## Effective Technical Teamwork
+
+The most misunderstood aspects of teamwork is that talent is only one aspect of an effective team, and not the most important aspect. You also need:
+
+* A clear, elevated goal
+* Results driven structure, are people achieving goals and can you measure them?
+* Competant team members
+* Unified commitment
+* Collaborative climate - if everyone is supportive and teamwork is rewarded then you'll have a collaborative climate. Management vs line worker or toxicity will ruin it.
+* Standards of excellence - everyone agrees what 'good' IS, agree on thing that should be done and kept to
+* External support and recognition
+* Principled leadership - the leader has to have character and do things in a principled way
