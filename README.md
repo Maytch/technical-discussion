@@ -96,4 +96,24 @@ Start with your list of Todos, maybe each is a ticket or an achieveable task in 
 
 Make a quaterly plan with 12 weeks and your key goals for the quarter. To aid in your kanban week-to-week.
 
-##
+## Project Management Anti-Patterns
+
+### Hero Driven Development
+
+Working overtime and nights and weekends is a failure in the system. Burn-out and quitting will follow.
+
+### Crisis Driven Development
+
+Where work only gets done during a huge crisis. Solve why you're getting into the crisis rather than sticking to putting out fires all the time.
+
+### HiPPO Driven Development
+
+Highest Paid Person's Opinion. Where someone higher up comes in to change the plans. Their opinions need to come in the planning stages. There shouldn't be a daily or weekly randomisation. People shouldn't be pulled off certain parts randomly to work on other features.
+
+### Heavy Scrum
+
+It's easy to mimic what appears to be successful, but you can end up doing things that don't make sense. Too many meetings and charts instead of productivity. The lighter the process the better.
+
+### Faith in People vs Faith in Process
+
+Don't just trust the person. People should be able to deliver incremental results. Hope is not a strategy.
